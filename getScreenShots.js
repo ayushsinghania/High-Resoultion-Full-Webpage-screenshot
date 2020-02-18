@@ -2,7 +2,7 @@ const puppeteer = require('puppeteer');
 //const mkdirp = require('mkdirp');
 const fs = require('file-system');
 
-// Put your custom dimension and name Here
+// Put your custom dimension and name here
 const devices = [
     { name: 'Highest', width: 1920, height: 1080 },
     { name: 'Laptop-1', width: 1366, height: 768 },
