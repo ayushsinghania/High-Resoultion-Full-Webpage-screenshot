@@ -1,5 +1,9 @@
-# High-Resoultion-Full-Webpage-screenshot
-Use Node.js and Google's Puppeteer API to take High Res screenshot of complete webpage (multiple URL's) and save it.
+# High Resoultion Full Webpage Screenshot
+
+Using Node.js and Google's Puppeteer API to take High-Resolution screenshot of the complete webpage (multiple URL's & Sizes, & Resolution) and save it in separate folders.
+This script can be used the test your webpage UI and layout against multiple screen sizes and resolutions and compare the results.
+
+Refer to the script for examples.
 
 ## About Puppeteer
 
@@ -21,7 +25,7 @@ The __getScreenShots.js__ script(+ some others) are included .
 ~~~sh
 $  node <code_name>.js
 ~~~
-* - You can also specify the resolution of your screenshot inside the code.
+* - You can also specify the resolution of your screenshot inside the code and 
 
 ## Results
 
